@@ -8,8 +8,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-apikey = 1331254833
-keyfrom = 'whyliam'
+apikey = 916812323
+keyfrom = 'alfred3'
 ICON_DEFAULT = 'icon.png'
 ICON_PHONETIC = 'icon_phonetic.png'
 ICON_BASIC = 'icon_basic.png'
