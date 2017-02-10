@@ -9,13 +9,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-apikey = [1331254833, 2002493135, 2002493136, 2002493137,
-          2002493138, 2002493139, 2002493140, 2002493141,
-          2002493142, 2002493143, 1947745089, 1947745090]
+apikey = [916812323]
 
-keyfrom = ['whyliam', 'whyliam-wf-1', 'whyliam-wf-2', 'whyliam-wf-3',
-           'whyliam-wf-4', 'whyliam-wf-5', 'whyliam-wf-6', 'whyliam-wf-7',
-           'whyliam-wf-8', 'whyliam-wf-9', 'whyliam-wf-10', 'whyliam-wf-11']
+keyfrom = ['alfred3']
 
 ICON_DEFAULT = 'icon.png'
 ICON_PHONETIC = 'icon_phonetic.png'
