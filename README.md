@@ -27,6 +27,20 @@
 请删除该文件
 `/Users/用户名/Library/Application\ Support/Alfred\ 2/Workflow\ Data/whyliam.workflows.youdao`
 
+-### 下载
+ -
+ -[点击下载](https://github.com/liszd/whyliam.workflows.youdao/releases/download/1.2.4/whyliam.workflows.youdao.alfredworkflow)
+ -
+ -## Demo
+ -
+ -#### 英译中
+ -
+ -![](http://ww2.sinaimg.cn/large/48910e01gw1erucr05z85g213p0kbqhn.gif)
+ -
+ -#### 中译英
+ -
+ -![](http://ww2.sinaimg.cn/large/48910e01gw1erucrd5tnmg213p0kbk6q.gif)
+ -
 #### 翻译短语
 
 ![](http://ww2.sinaimg.cn/large/48910e01gw1erucrvb9a8g213p0kbqhn.gif)
