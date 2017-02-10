@@ -9,9 +9,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-apikey = [916812323]
+apikey = 916812323
 
-keyfrom = ['alfred3']
+keyfrom = 'alfred3'
 
 ICON_DEFAULT = 'icon.png'
 ICON_PHONETIC = 'icon_phonetic.png'
@@ -20,9 +20,9 @@ ICON_WEB = 'icon_web.png'
 
 def get_web_data(query):
     query = urllib.quote(str(query))
-    i = random.randrange(0, 12, 1)
-    url = 'http://fanyi.youdao.com/openapi.do?keyfrom=' + keyfrom[i] + \
-        '&key=' + str(apikey[i]) + \
+    i = 0
+    url = 'http://fanyi.youdao.com/openapi.do?keyfrom=' + keyfrom + \
+        '&key=' + str(apikey) + \
         '&type=data&doctype=json&version=1.1&q=' + query
     return web.get(url).json()
 
