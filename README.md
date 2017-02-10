@@ -1,6 +1,6 @@
 # whyliam.workflows.youdao
 
-## 有道翻译 workflow v1.2.4
+## 有道翻译 workflow v1.2.5
 
 默认快捷键 "yd"，查看翻译结果。
 
@@ -25,22 +25,22 @@
 ![No JSON object could be decoded](https://cloud.githubusercontent.com/assets/12092275/16805774/590a4064-4944-11e6-9b12-d8218024c032.png)
 
 请删除该文件
-`/Users/用户名/Library/Application\ Support/Alfred\ 2/Workflow\ Data/whyliam.workflows.youdao`
+`/Users/用户名/Library/Application\ Support/Alfred\ 3/Workflow\ Data/whyliam.workflows.youdao`
 
--### 下载
- -
- -[点击下载](https://github.com/liszd/whyliam.workflows.youdao/releases/download/1.2.4/whyliam.workflows.youdao.alfredworkflow)
- -
- -## Demo
- -
- -#### 英译中
- -
- -![](http://ww2.sinaimg.cn/large/48910e01gw1erucr05z85g213p0kbqhn.gif)
- -
- -#### 中译英
- -
- -![](http://ww2.sinaimg.cn/large/48910e01gw1erucrd5tnmg213p0kbk6q.gif)
- -
+### 下载
+
+[点击下载](https://github.com/liszd/whyliam.workflows.youdao/releases/download/1.2.5/whyliam.workflows.youdao.alfredworkflow)
+
+## Demo
+
+#### 英译中
+
+![](http://ww2.sinaimg.cn/large/48910e01gw1erucr05z85g213p0kbqhn.gif)
+
+#### 中译英
+
+![](http://ww2.sinaimg.cn/large/48910e01gw1erucrd5tnmg213p0kbk6q.gif)
+
 #### 翻译短语
 
 ![](http://ww2.sinaimg.cn/large/48910e01gw1erucrvb9a8g213p0kbqhn.gif)
@@ -57,7 +57,7 @@
 
 ## The MIT License (MIT)
 
-Copyright (c) 2015 liamzhuce@gmail.com
+Copyright (c) 2015
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
